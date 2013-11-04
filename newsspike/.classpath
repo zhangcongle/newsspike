@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/clzhangJavaTool"/>
+	<classpathentry kind="lib" path="lib/boilerpipe-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsc.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/json-path-0.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml-1.9.13.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/reverb-latest.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-classifier-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-classifier-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-classifier-3.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="lib/tmt-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/wikipedia-miner.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
